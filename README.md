@@ -1,6 +1,7 @@
 # ScrapingData
 Learning path on scraping data 
 
+参考链接： [http://python.jobbole.com/82633/]
 -----------------------------------------------------
 这个列表包含与网页抓取和数据处理的Python库
 
